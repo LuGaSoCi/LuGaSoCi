@@ -1,5 +1,5 @@
 # 💫 Sobre mí:
-👨‍💻 Estudiante de Ingeniería en Sistemas<br>📚 Experiencia en lenguajes de programación como JavaScript, Java, Go y Python, con un fuerte interés en seguir mejorando mis habilidades de programación.<br>✍🏼 Disfruto escribir y explorar mi creatividad a través de la palabra.<br>🎥 Fanático de las películas, siempre buscando nuevas historias que inspiren.
+👨‍💻 Estudiante de Ingeniería en Software<br>📚 Experiencia en lenguajes de programación como JavaScript, Java, Go y Python, con un fuerte interés en seguir mejorando mis habilidades de programación.<br>✍🏼 Disfruto escribir y explorar mi creatividad a través de la palabra.<br>🎥 Fanático de las películas, siempre buscando nuevas historias que inspiren.
 
 
 ## 🌐 Socials:
